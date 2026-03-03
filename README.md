@@ -180,3 +180,15 @@ pytest tests/ --cov=. --cov-report=html
 展示 Full-stack 开发 + 化工专业知识 + AI 技术集成能力
 
 *如有问题，欢迎通过 [Issues](https://github.com/YOUR_USERNAME/cosmetic-compliance-ai/issues) 反馈。*
+
+---
+
+## 🚀 Live Demo
+
+Run locally:
+```bash
+git clone https://github.com/HOcaodoing/Cosmetic-Compliance-AI.git
+cd Cosmetic-Compliance-AI
+pip install -r requirements.txt
+streamlit run app.py
+```

@@ -40,3 +40,4 @@ Thumbs.db
 htmlcov/
 .coverage
 .pytest_cache/
+cosmetic_compliance.db
